@@ -1,4 +1,4 @@
-<?xml-stylesheet href="css_xml.css"?>
+<?xml-stylesheet type="text/css" href="css_xml.css"?>
 <bookstore>
   <book category="cooking">
     <title lang="en">Everyday Italian</title>
