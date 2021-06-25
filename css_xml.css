@@ -2,6 +2,7 @@ bookstore{
     text-align: center;
     border-width: 1px;
     border-color: black;
+    font-family: arial;
 }
 book{
     text-align: center;
@@ -9,4 +10,9 @@ book{
     border-width: 2px;
     border-color: black;
     width: 100%;
+    font-family: arial;
+}
+price{
+    font-color: green;
+    font-family: arial;
 }
