@@ -1,7 +1,5 @@
-BOOK{
+bookstore{
     text-align: center;
-}
-PRICE{
+    border-width: 1px;
     border-color: black;
-    text-align: center;
 }
