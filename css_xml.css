@@ -3,3 +3,9 @@ bookstore{
     border-width: 1px;
     border-color: black;
 }
+book{
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
